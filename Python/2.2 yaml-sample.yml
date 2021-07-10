@@ -1,0 +1,9 @@
+---
+# YAML Example
+Abdul:
+  Age: 30
+  Place: Bangalore 
+Anas:
+  Age: 27
+  Place: Calicut
+...

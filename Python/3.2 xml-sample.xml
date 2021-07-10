@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <Abdul>
+    <Age>30</Age>
+    <Place>Bangalore</Place>
+	</Abdul>
+	
+    <Anas>
+    <Age>27</Age>
+    <Place>Calicut</Place>
+	</Anas>
+</root>
